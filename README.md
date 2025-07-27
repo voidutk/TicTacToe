@@ -1,18 +1,35 @@
-## Getting Started
+# Tic Tac Toe - Java Game 🕹️
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+A simple **Tic Tac Toe** game built with **Java Swing**. Two players (X and O) play alternately in a GUI-based 3x3 grid. The game detects wins, highlights them, and allows restarts.
 
-## Folder Structure
+---
 
-The workspace contains two folders by default, where:
+![Game Screenshot](gameplay.png)
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+---
+## 💡 Features
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+- ✅ Turn-based two-player gameplay
+- 🎨 GUI built with Java Swing
+- 🟩 Highlights winning tiles
+- 🔁 Restart support
+- ❌ Handles invalid moves
 
-## Dependency Management
+---
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## 🛠️ Technologies
+
+- Java (JDK 8+)
+- Java Swing
+- AWT
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the Repo
+
+```bash
+git clone https://github.com/voidutk/TicTacToe.git
+cd TicTacToe
